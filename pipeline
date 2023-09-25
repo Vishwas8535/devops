@@ -3,3 +3,4 @@ package
 static deployment
 deployment of prodction
 parallel deployment
+trigger changes
